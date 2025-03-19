@@ -1,2 +1,2 @@
-# gverix
-Gverix - Sistema CRM/ERP
+# GVerix
+GVerix - Sistema CRM/ERP
